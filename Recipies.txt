@@ -7,3 +7,6 @@ StringHopper
 
 
 ThankYou!
+
+
+Final copy
